@@ -6,7 +6,7 @@
 
 > Following Figure Shows the Quadcopter that I built for this Autonomous Tracking 
 
-![image](https://user-images.githubusercontent.com/54229744/151746513-b9dcdf87-41e7-440d-966a-cacff03792d7.png)
+![image](https://user-images.githubusercontent.com/54229744/151697057-287f3f4e-0bcf-4f20-b8bc-469ab97473a0.png)
 
 > I have used Ardupilot Firmware in the Pixhawk Mini Flight Controller.
 
